@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kryptonite_Blue
+- 👀 I’m interested in Coding (C# C++ Python Java)
+- 🌱 I’m currently learning Coding -> Machine Learning and Artificial Intelligence
+- 💞️ I’m looking to collaborate on A ChatBot
+- 📫 How to reach me (kryptxd.contact@gmail.com)
